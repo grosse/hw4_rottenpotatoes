@@ -17,6 +17,8 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'simplecov'
 end
+
+
 group :production do
   gem 'pg'
 end
